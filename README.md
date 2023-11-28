@@ -1,7 +1,8 @@
 A simple product Restfull API CRUD using Java 17 Spring Framework and PostgreSql.
 
-POST/CREATE   -> /products/create;
-GET/READ-LIST -> /products;
-GET/READ-FIND -> /products/{id};
-PUT/UPDATE    -> /products/update/{id};
-DELETE/DELETE -> /products/delete/{id};
+POST/CREATE   -> /products/create;\n
+GET/READ-LIST -> /products;\r
+GET/READ-FIND -> /products/{id};\r
+PUT/UPDATE    -> /products/update/{id};/n
+DELETE/DELETE -> /products/delete/{id};/r
+tsff
