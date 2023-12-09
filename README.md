@@ -1,4 +1,4 @@
-A simple product Restfull API CRUD using Java 17 Spring Framework and PostgreSql.
+A simple product Restful API CRUD using Java 17 Spring Framework and PostgreSql.
 
 POST/CREATE   -> /products/create;
 
